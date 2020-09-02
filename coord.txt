@@ -1,0 +1,95 @@
+insert into ports(name, country, lat, longitude, cost) values
+
+
+insert into ports(name, country, lat, longitude, cost) values("Chennai", "India", "13d5m3.88sN", "80d17m23.64sE", 7500);
+insert into ports(name, country, lat, longitude, cost) values("Kandla", "India", "23d1m48sN", "70d13m12sE", 3500);
+insert into ports(name, country, lat, longitude, cost) values("Mumbai", "India", "18d56m18sN", "72d45m54sE", 10000);
+insert into ports(name, country, lat, longitude, cost) values("Kochi", "India", "9d58m3.22sN", "76d16m5.38sE", 4500);
+
+
+insert into ports(name, country, lat, longitude, cost) values("New York", "USA", "40d40m6sN", "74d2m44sW", 12000);
+insert into ports(name, country, lat, longitude, cost) values("Houston", "USA", "29d36m39.96sN", "95d1m18.12sW", 11000);
+insert into ports(name, country, lat, longitude, cost) values("Los Angeles", "USA", "33d43m45.07sN", "118d15m43.25sW",11500);
+insert into ports(name, country, lat, longitude, cost) values("New Orleans", "USA", "29d56m13sN", "90d3m43sW",10000);
+insert into ports(name, country, lat, longitude, cost) values("Texas City", "USA", "29d22m15.14sN", "94d53m47.02sW",10500);
+insert into ports(name, country, lat, longitude, cost) values("Baltimore", "USA", "39d16m30sN", "76d35m4.2sW",9500);
+
+
+insert into ports(name, country, lat, longitude, cost) values("Xiamen", "China", "24d30m8.14sN", "118d5m4.31sE", 8000);
+insert into ports(name, country, lat, longitude, cost) values("Shenzen", "China", "22d30m0sN", "113d53m0sE", 10000);
+insert into ports(name, country, lat, longitude, cost) values("Hong Kong", "China", "22d32m32.36sN", "114d16m41.12sE", 12000);
+insert into ports(name, country, lat, longitude, cost) values("Caofeidian", "China", "38d55m59.99sN", "118d31m59.88sE", 5000);
+insert into ports(name, country, lat, longitude, cost) values("Port of Suzhou", "China", "31d47m57.81sN", "120d51m33.2sE", 5000);
+insert into ports(name, country, lat, longitude, cost) values("Shanghai", "China", "30d37m35.54sN", "122d3m53.85sE", 12000);
+insert into ports(name, country, lat, longitude, cost) values("Yangshan Port", "China", "30d37m0sN", "122d4m0sE", 6000);
+
+
+insert into ports(name, country, lat, longitude, cost) values("Laem Chabang", "Thailand", "13d5m0sN", "100d53m0sE", 4500);
+insert into ports(name, country, lat, longitude, cost) values("Bangkok", "Thailand", "13d42m13.45sN", "100d34m31.61sE", 7000);
+
+
+insert into ports(name, country, lat, longitude, cost) values("Ayan", "Russia", "56d27m30sN", "138d10m5sE", 7200);
+insert into ports(name, country, lat, longitude, cost) values("Okhotsk", "Russia", "59d22m3sN", "143d15m34sE", 5200);
+insert into ports(name, country, lat, longitude, cost) values("Port of Magadan", "Russia", "59d32m21sN", "150d46m26sE", 5500);
+insert into ports(name, country, lat, longitude, cost) values("Vladivostok", "Russia", "43d8m0sN", "131d54m0sE", 5000);
+insert into ports(name, country, lat, longitude, cost) values("Port of Zarubino", "Russia", "42d38m29sN", "131d4m55sE", 4000);
+insert into ports(name, country, lat, longitude, cost) values("Nagayevo", "Russia", "59d33m0sN", "150d47m0sE", 4500);
+insert into ports(name, country, lat, longitude, cost) values("Shkotovo", "Russia", "43d19m0sN", "132d21m0sE", 4200);
+
+insert into ports(name, country, lat, longitude, cost) values("Blyth", "UK", "55d7m33.6sN", "1d30m50.4sW", 5400);
+insert into ports(name, country, lat, longitude, cost) values("Sunderland", "UK", "54d54m36sN", "1d23m6sW", 7600);
+insert into ports(name, country, lat, longitude, cost) values("Hartlepool", "UK", "54d41m24sN", "1d12m36sW", 6500);
+insert into ports(name, country, lat, longitude, cost) values("Grimsby", "UK", "53d33m34.2sN", "0d4m4.8sW", 5600);
+insert into ports(name, country, lat, longitude, cost) values("Harwich International Port", "UK", "51d56m52.8sN", "1d15m18sE", 6700);
+insert into ports(name, country, lat, longitude, cost) values("Southampton", "UK", "50d54m0sN", "1d24m0sW", 8000);
+insert into ports(name, country, lat, longitude, cost) values("Port of Singapore", "Singapore", "1d15m50.4sN", "103d50m24sE", 14000);
+insert into ports(name, country, lat, longitude, cost) values("Manaus", "Brazil", "3d6m0sS", "60d1m0sW", 3400);
+insert into ports(name, country, lat, longitude, cost) values("Porto do Itaqui", "Brazil", "2d34m21sS", "44d21m51sW", 4600);
+insert into ports(name, country, lat, longitude, cost) values("Fortaleza", "Brazil", "3d43m39sS", "38d31m39sW", 5000);
+insert into ports(name, country, lat, longitude, cost) values("Natal", "Brazil", "5d47m0sS", "35d12m0sW", 3600);
+insert into ports(name, country, lat, longitude, cost) values("Rio de Janeiro", "Brazil", "22d54m30sS", "43d11m47sW", 9000);
+insert into ports(name, country, lat, longitude, cost) values("Santos", "Brazil", "23d56m13sS", "46d19m30sW", 8000);
+insert into ports(name, country, lat, longitude, cost) values("Rio Grande", "Brazil", "32d2m6sS", "52d5m55sW", 8500);
+insert into ports(name, country, lat, longitude, cost) values("Port of Buenos Aires", "Argentina", "34d35m0sS", "58d22m0sW", 9500);
+insert into ports(name, country, lat, longitude, cost) values("White Bay", "Argentina", "38d43m0sS", "62d16m0sW", 5500);
+insert into ports(name, country, lat, longitude, cost) values("Puerto San Julian", "Argentina", "49d18m0sS", "67d43m0sW", 6500);
+insert into ports(name, country, lat, longitude, cost) values("Ushuaia", "Argentina", "54d48m7sS", "68d18m11sW", 6000);
+insert into ports(name, country, lat, longitude, cost) values("Veracruz", "Mexico", "19d11m25sN", "96d9m12sW", 3200);
+insert into ports(name, country, lat, longitude, cost) values("Altamira", "Mexico", "22d20m15sN", "97d52m10sW", 3700);
+insert into ports(name, country, lat, longitude, cost) values("La Barra", "Mexico", "34d54m50sS", "54d51m10sW", 6700);
+insert into ports(name, country, lat, longitude, cost) values("Anton Lizardo", "Mexico", "19d3m0sN", "95d59m0sW", 6500);
+insert into ports(name, country, lat, longitude, cost) values("Port of Algeciras", "Spain", "36d8m9.6sN", "5d26m6sW", 4500);
+insert into ports(name, country, lat, longitude, cost) values("Port of Tarifa", "Spain", "36d0m6sN", "5d36m30sW", 5400);
+insert into ports(name, country, lat, longitude, cost) values("Port of Seville", "Spain", "35d17m30.45sN", "2d55m57.1sW", 6700);
+insert into ports(name, country, lat, longitude, cost) values("Ceuta", "Spain", "35d53m25.25sN", "5d18m58.99sW", 3000);
+insert into ports(name, country, lat, longitude, cost) values("Port of Valencia", "Spain", "39d26m44.52sN", "0d19m11.64sW", 7800);
+insert into ports(name, country, lat, longitude, cost) values("Barcelona", "Spain", "41d20m15sN", "2d9m8sE", 9000);
+insert into ports(name, country, lat, longitude, cost) values("Cascais Marina", "Portugal", "38d41m34.8sN", "9d25m4.8sW", 4600);
+insert into ports(name, country, lat, longitude, cost) values("Port of Funchal", "Portugal", "32d38m33.5sN", "16d54m58.7sW", 5000);
+insert into ports(name, country, lat, longitude, cost) values("Port of Lisbon", "Portugal", "38d41m56.04sN", "9d10m9.12sW", 6700);
+insert into ports(name, country, lat, longitude, cost) values("Port of Sines", "Portugal", "37d57m0sN", "8d52m0sW", 5750);
+insert into ports(name, country, lat, longitude, cost) values("Port of Akita", "Japan", "39d45m34.25sN", "140d2m33.95sE", 5700);
+insert into ports(name, country, lat, longitude, cost) values("Port of Funagawa", "Japan", "39d52m49.76sN", "139d51m32.1sE", 5600);
+insert into ports(name, country, lat, longitude, cost) values("Port of Kobe", "Japan", "34d40m39sN", "135d13m37sE", 7500);
+insert into ports(name, country, lat, longitude, cost) values("Port of Noshiro", "Japan", "40d12m58.94sN", "139d59m59.83sE", 7000);
+insert into ports(name, country, lat, longitude, cost) values("Port of Osaka", "Japan", "34d38m31sN", "135d25m22sE", 8000);
+insert into ports(name, country, lat, longitude, cost) values("Port of Tokyo", "Japan", "35d37m1sN", "139d47m44sE", 12000);
+insert into ports(name, country, lat, longitude, cost) values("Port of Yokohama", "Japan", "35d27m0sN", "139d38m46sE", 6700);
+insert into ports(name, country, lat, longitude, cost) values("Jeddah Islamic Port", "Saudi Arabia", "21d31m1sN", "39d13m9sE", 6700);
+insert into ports(name, country, lat, longitude, cost) values("King Abdul Aziz Port", "Saudi Arabia", "26d29m19sN", "50d12m4sE", 7000);
+insert into ports(name, country, lat, longitude, cost) values("King Fahad Industrial Port Jubail", "Saudi Arabia", "27d1m0sN", "49d40m0sE", 7200);
+insert into ports(name, country, lat, longitude, cost) values("Yanbu Commercial Port", "Saudi Arabia", "24d4m0sN", "38d3m0sE", 6500);
+insert into ports(name, country, lat, longitude, cost) values("Brake", "Germany", "53d20m0sN", "8d29m0sE", 4500);
+insert into ports(name, country, lat, longitude, cost) values("Cuxhaven", "Germany", "53d51m40sN", "8d41m40sE", 4000);
+insert into ports(name, country, lat, longitude, cost) values("Port of Emden", "Germany", "53d20m40sN", "7d11m48sE", 6000);
+insert into ports(name, country, lat, longitude, cost) values("Port of Hamburg", "Germany", "53d32m46sN", "9d57m58sE", 8500);
+insert into ports(name, country, lat, longitude, cost) values("Nordenham", "Germany", "53d30m0sN", "8d28m0sE", 6500);
+insert into ports(name, country, lat, longitude, cost) values("Papenburg", "Germany", "53d4m0sN", "7d24m0sE", 7000);
+insert into ports(name, country, lat, longitude, cost) values("Dunkirk", "France", "51d2m17.88sN", "2d22m39sE", 11000);
+insert into ports(name, country, lat, longitude, cost) values("Port of Antwerp", "Belgium", "51d16m12sN", "4d20m12sE", 5000);
+insert into ports(name, country, lat, longitude, cost) values("Brussels", "Belgium", "50d51m0sN", "4d21m0sE", 7800);
+insert into ports(name, country, lat, longitude, cost) values("Port of Ostend", "Belgium", "51d13m28sN", "2d54m35sE", 5600);
+insert into ports(name, country, lat, longitude, cost) values("Bergen", "Belgium", "60d23m22sN", "5d19m48sE", 6200);
+insert into ports(name, country, lat, longitude, cost) values("Egersund", "Belgium", "58d26m29sN", "6d0m14sE", 6500);
+insert into ports(name, country, lat, longitude, cost) values("Sandnes", "Belgium", "58d51m6sN", "5d44m10sE", 7500);
+insert into ports(name, country, lat, longitude, cost) values("Stavanger", "Belgium", "58d57m48sN", "5d43m8sE", 7700);
