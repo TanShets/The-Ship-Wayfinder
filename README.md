@@ -26,3 +26,5 @@ Note: lat and longitude will be in the format XdYmZs N/S(lat) W/E(longitude)
       where d = degrees, m = minutes, s = seconds
 
 Output will be in the form of a graph of nodes and connecting edges for the desired path.
+
+coord.txt consists of insert commands which can be used to insert into the table for your use.
